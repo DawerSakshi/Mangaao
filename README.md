@@ -1,0 +1,2 @@
+# Mangaao
+Just another repository
